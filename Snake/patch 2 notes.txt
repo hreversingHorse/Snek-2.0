@@ -1,0 +1,5 @@
+apples no longer spawn within a snake
+snake cannot move into opposite direction to which its going at any given moment
+updated variable/class names
+
+Made with caveman usage of maven.
